@@ -461,6 +461,7 @@
 				D3E5B5501701F52100C074BE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D3E5B5511701F52100C074BE /* Build configuration list for PBXNativeTarget "teamcitytestTests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +470,7 @@
 				D3E5B5531701F52100C074BE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
